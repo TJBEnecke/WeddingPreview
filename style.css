@@ -856,7 +856,10 @@ section p{
         width: 80vw;
     }
     .bg-slide .content h1{
-        font-size: 3em;
+        font-size: 2em;
+    }
+    .bg-slide .content h4{
+        font-size: 2em;
     }
      .bg-slide .content p{
         font-size: 0.8em;
