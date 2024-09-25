@@ -44,7 +44,7 @@ window.addEventListener('load', () => {
             });
             this.classList.add('active');
             sectionNavigator(this.getAttribute('data-target'));
-            screen.width < 768 && toggleMenu();
+            screen.width < 700 && toggleMenu();
         });
     });
 });
