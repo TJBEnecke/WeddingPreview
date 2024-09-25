@@ -473,7 +473,7 @@ section p{
     position: absolute;
     bottom: 100px;
     right: 200px;
-    opacity: 0.2;
+    opacity: 0.1;
     z-index: 100;
     pointer-events: none;
 }
