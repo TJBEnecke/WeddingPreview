@@ -188,6 +188,20 @@ header.active {
 
 }
 
+.bg-slide .content h6::first-letter{
+    color: var(--primary);
+    font-size: 4em;
+}
+.bg-slide .content h6{
+     font-family: 'Great Vibes', cursive;
+    font-weight: 300;
+    font-size: 4.5em;
+    letter-spacing: 1px;
+    margin-bottom: 20px;
+  
+
+}
+
 .bg-slide .content p {
      font-family: "Frank Ruhl Libre", serif;
     font-weight: 100;
