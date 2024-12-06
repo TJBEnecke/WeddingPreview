@@ -467,6 +467,11 @@ section p{
     font-size: 2em;
 }
 
+.about h6::first-letter{
+    color: var(--primary);
+    font-size: 4em;
+}
+
 .about::before{
     position: absolute;
     content: '';
@@ -633,6 +638,11 @@ section p{
 .card .details h4::first-letter{
     color: var(--primary);
     font-size: 1.5em;
+}
+
+.card .details h6::first-letter{
+    color: var(--primary);
+    font-size: 3.5em;
 }
 
 .card .details1{
